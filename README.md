@@ -1,10 +1,10 @@
 # Mini-Blogging-Platform
 Welcome to the Simple Blogging Platform RESTful API project! 
 
-# Project Overview
+## Project Overview
 The Simple Blogging Platform RESTful API is a backend solution designed to power a basic yet functional blogging platform. This project showcases our ability to create a secure and efficient RESTful API, incorporating essential features for user registration, authentication, blog post management, and commenting.
 
-# Technologies
+## Technologies
 1. Node.js and Express.js for building the API.
 2. JSON Web Tokens (JWT) for authentication.
 3. MONGODB for data storage.
