@@ -21,7 +21,7 @@ The Simple Blogging Platform RESTful API is a backend solution designed to power
 
 
 ## Getting Started
-To get started with our Data Visualization Dashboard, follow these steps:
+To get started with our Mini blog project, follow these steps:
 
 1. **Clone the Repository:** `git clone https://github.com/kashisharma04/Data_Visualization_Dashboard.git`
 
