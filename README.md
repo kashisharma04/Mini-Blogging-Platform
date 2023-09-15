@@ -33,6 +33,6 @@ To get started with our Data Visualization Dashboard, follow these steps:
 ## Contact
 If you have any questions or need assistance, feel free to contact us at [kashisharmaujjn@gmail.com].
 
-Thank you for exploring Data Visualization Dashboard project. I hope it empowers you to gain valuable insights from your data!
+Thank you for exploring Blog project. I hope it empowers you to gain valuable insights from your data!
 ---
 Feel free to customize this description further to match the specific features and goals of your project.
