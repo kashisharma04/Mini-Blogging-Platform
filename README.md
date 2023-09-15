@@ -8,6 +8,18 @@ The Simple Blogging Platform RESTful API is a backend solution designed to power
 1. Node.js and Express.js for building the API.
 2. JSON Web Tokens (JWT) for authentication.
 3. MONGODB for data storage.
+
+## Key Features:
+
+1. User Registration and Authentication: Users can easily register and log in using JSON Web Tokens (JWT) for secure authentication.
+
+2. Blog Post Management (CRUD Operations): Logged-in users have full control over their blog posts, with the ability to create, read, update, and delete their own content. Additionally, users can explore and read posts authored by others.
+
+3. Commenting Feature: Users can actively engage with the community by leaving comments on both their posts and those of others. They can also edit or remove their own comments.
+
+4. Relational Database: All data is efficiently managed and stored in a relational database system, providing reliability and scalability.
+
+
 ## Getting Started
 To get started with our Data Visualization Dashboard, follow these steps:
 
