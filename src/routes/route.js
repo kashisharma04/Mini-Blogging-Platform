@@ -1,4 +1,3 @@
-
 const express = require('express')
 const router = express.Router()
 const { login,createUser,getUser } = require('../controllers/userController');
@@ -16,8 +15,8 @@ router.post('/login', login)
 
 // blog routes
 router.post('/blogs',authentication, createBlog)
-router.get('/blogs' ,authentication, getAllBlogs);
+router.get('/blogs' , getAllBlogs);
 router.put('/blogs/:blogId',authentication,authorization,updateBlog);
 router.delete('/blogs/:blogId',authentication,authorization,deleteBlog)
 
-module.exports = router
+module.exports = router;

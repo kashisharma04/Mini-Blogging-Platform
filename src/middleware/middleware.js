@@ -3,9 +3,7 @@ const blogModel = require('../models/blog')
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
 
-const {
-    JWT_SECRET, JWT_EXPIRY
-} = process.env
+const {JWT_SECRET } = process.env
 
 //=====================Authentication==================
 
@@ -54,8 +52,7 @@ const authorization = async function (req, res, next) {
         const decoded = jwt.verify(token, JWT_SECRET)
 
        let decodedUser = decoded.user_id
-  //      console.log(decodedUser)
-
+  
          let blogId = req.params.blogId
         // console.log(blogId)
 

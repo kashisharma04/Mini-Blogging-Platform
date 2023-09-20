@@ -10,8 +10,6 @@ const mongoose = require('mongoose');
 const createBlog = async function (req, res) {
     try {
         let blogData = req.body;
-        //if (!Object.keys(blogData).length) return res.send({ status: false, message: "pls provide blog details" })
-
         // Destructuring the blogData
         const { title, body, userId, category, tags } = blogData;
 

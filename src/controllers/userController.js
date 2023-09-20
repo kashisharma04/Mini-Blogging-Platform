@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken')
 const { validateEmail,isValidReqBody } = require('../validations/valid')
 
 require('dotenv').config();
-const { JWT_SECRET, JWT_EXPIRY } = process.env
+const { JWT_SECRET} = process.env
 
 const createUser = async function (req, res) {
     try {
