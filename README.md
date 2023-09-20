@@ -23,13 +23,12 @@ The Simple Blogging Platform RESTful API is a backend solution designed to power
 ## Getting Started
 To get started with our Mini blog project, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/kashisharma04/Data_Visualization_Dashboard.git`
+1. **Clone the Repository:** `https://github.com/kashisharma04/Mini-Blogging-Platform.git`
 
 2. **Install Dependencies:** `npm install`
 
 3. **Run the Application:** `npm start`
 
-4. **Open Your Browser:** Visit `http://localhost:3000` to access the dashboard.
 ## Contact
 If you have any questions or need assistance, feel free to contact us at [kashisharmaujjn@gmail.com].
 
