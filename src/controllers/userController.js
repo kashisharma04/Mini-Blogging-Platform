@@ -36,6 +36,7 @@ const createUser = async function (req, res) {
 }
 //==================CRUD METHODS================================
 //================/GET METHOD/==================================
+
 const getUser = async function (req, res) {
     try {
         const user = await userModel.find()
